@@ -1,0 +1,12 @@
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\bin\Debug\net8.0\Cooperativa.deps.json
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\bin\Debug\net8.0\Cooperativa.dll
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\bin\Debug\net8.0\Cooperativa.pdb
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\obj\Debug\net8.0\Cooperativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\obj\Debug\net8.0\Cooperativa.AssemblyInfoInputs.cache
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\obj\Debug\net8.0\Cooperativa.AssemblyInfo.cs
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\obj\Debug\net8.0\Cooperativa.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\obj\Debug\net8.0\Cooperativa.sourcelink.json
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\obj\Debug\net8.0\Cooperativa.dll
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\obj\Debug\net8.0\refint\Cooperativa.dll
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\obj\Debug\net8.0\Cooperativa.pdb
+C:\Users\Daniel\github-classroom\Caldas-University\tallerpruebasunitarias-JDanielBS\Cooperativa\obj\Debug\net8.0\ref\Cooperativa.dll
